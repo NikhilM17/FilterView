@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':filter_view'
 rootProject.name='FilterView'
